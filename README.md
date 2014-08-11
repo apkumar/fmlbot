@@ -12,3 +12,5 @@ Tokenizer.rb takes full-text strings as input and outputs their tokenized output
 script.rb stitches everything together.
 
 Rakefile.rb is basically used to scrape fmylife.com for training data.
+
+08/11/2014 - Trying again to pick up the project.
